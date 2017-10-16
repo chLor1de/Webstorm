@@ -1,5 +1,5 @@
 # Main Colors
 
 Blue: #647BFF
-Pink: #C792EA
+Purple: #C792EA
 Green: #1CD11B
